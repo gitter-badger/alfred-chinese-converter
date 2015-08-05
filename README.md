@@ -1,5 +1,7 @@
 # Alfred Chinese Converter 簡繁轉換
 
+[![Join the chat at https://gitter.im/amowu/alfred-chinese-converter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amowu/alfred-chinese-converter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Stories in Ready](https://badge.waffle.io/amowu/alfred-chinese-converter.png?label=ready&title=Ready)](https://waffle.io/amowu/alfred-chinese-converter) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amowu/alfred-chinese-converter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![icon](icon.png)
